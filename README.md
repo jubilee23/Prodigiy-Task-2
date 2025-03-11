@@ -1,10 +1,15 @@
 # Prodigiy-Task-2
 This analysis explores survival trends among Titanic passengers, highlighting key factors that influenced survival rates.
 ## Exploratory Data Analysis (EDA) of the Titanic Dataset
+![](titanic_ship.jpg)
+
+
 ### Dataset Overview
 The dataset utilized for this analysis is the Titanic dataset, sourced from Kaggle. It contains a wealth of information regarding passengers aboard the Titanic, including their survival status, ticket prices, class, gender, and more. The analysis was conducted as part of my internship at Prodigy.
 Software Used
 For data cleaning, transformation, and analysis, I used PostgreSQL (PostgreSQL SQL), leveraging its powerful querying capabilities to manipulate and explore the dataset effectively.
+
+### Project Objective 
 ________________________________________
 ### Data Preparation
 #### Table Creation in PostgreSQL
