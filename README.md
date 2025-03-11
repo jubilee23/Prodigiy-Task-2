@@ -10,6 +10,17 @@ Software Used
 For data cleaning, transformation, and analysis, I used PostgreSQL (PostgreSQL SQL), leveraging its powerful querying capabilities to manipulate and explore the dataset effectively.
 
 ### Project Objective 
+Analyze survival rates based on passenger demographics (age, gender, and class).
+
+Examine the impact of fare on survival probability.
+
+Identify trends in embarkation points and their correlation with survival rates.
+
+Compare survival rates across different socio-economic groups.
+
+Investigate correlations between passenger attributes and survival likelihood.
+
+Evaluate the distribution of passengers across ticket classes and its impact on survival.
 ________________________________________
 ### Data Preparation
 #### Table Creation in PostgreSQL
